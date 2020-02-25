@@ -1,0 +1,29 @@
+#reddit {
+  font-size: 10px;
+  font-style: italic;
+  display: flex;
+  flex-wrap: wrap;
+  /* flex-direction: column; */
+  justify-content: wrap;
+}
+
+.reddit-divs {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  max-width: 10rem;
+  margin: 3rem;
+    
+}
+
+img {
+  width: 10rem;
+   
+  /* height: 12rem; */
+}
+
+h1 {
+  font-style: italic;
+  text-align: center;
+  margin: 3rem;
+}
